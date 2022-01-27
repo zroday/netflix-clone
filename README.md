@@ -1,3 +1,17 @@
+# Screenshots
+
+### `code`
+<img src="https://github.com/zroday/netflix-clone/blob/main/git_imagens/code.png" alt="code"/>
+
+### `Register Page`
+<img src="https://github.com/zroday/netflix-clone/blob/main/git_imagens/register.png" alt="register page"/>
+
+### `Login Page`
+<img src="https://github.com/zroday/netflix-clone/blob/main/git_imagens/login.png" alt="login page"/>
+
+### `Home Page`
+<img src="https://github.com/zroday/netflix-clone/blob/main/git_imagens/home.png" alt="home page"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
