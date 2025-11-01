@@ -69,11 +69,14 @@
   "Bodybuilders": { "title": "bodybuilderssuplementoslojadefabricaexceedyourlimitsbodybuildersexceedyourlimits", "loginpage": "fazerloginbodybuildersexceedyourlimits" },
   "Integralmedica": { "title": "integralmedicacompreosmelhoressuplementosonline", "loginpage": "integralmedicacompreosmelhoressuplementosonline" },
   "iHerb": { "title": "iherbvitaminassuplementoseprodutosnaturaisparasaude", "loginpage": "iherbvitaminassuplementoseprodutosnaturaisparasaude" },
-  "DrogariaSãoPaulo": { "title": "drogariasaopaulofarmaciaonline", "loginpage": "drogariasaopaulofarmaciaonline" },
+  "DrogariaSaoPaulo": { "title": "drogariasaopaulofarmaciaonline", "loginpage": "drogariasaopaulofarmaciaonline" },
   "Drogasil": { "title": "drogasilfarmaciaonline24horascomentregadrogasil", "loginpage": "logindrogasil" },
   "PagueMenos": { "title": "paguemenosmedicamentosemanipulacao", "loginpage": "paguemenosmedicamentosemanipulacao" },
   "DrogaRaia": { "title": "drogaraiafarmaciaonline24horascomentregadrogaraia", "loginpage": "loginraia" },
   "Panvel": { "title": "panvelfarmaciasmedicamentosbelezainfantilemais", "loginpage": "panvelfarmaciasmedicamentosbelezainfantilemais" },
   "Farmadelivery": { "title": "farmadeliveryfarmaciaonlinecomofertasespeciais", "loginpage": "farmadeliveryfarmaciaonlinecomofertasespeciais" },
-  "Ultrafarma": { "title": "ultrafarmatanocoracaodagente", "loginpage": "identificacaoultrafarma" }
+  "Ultrafarma": { "title": "ultrafarmatanocoracaodagente", "loginpage": "identificacaoultrafarma" },
+  "GovBr": { "title": "govbracessesuaconta", "loginpage": "govbracessesuaconta" },
+  "Steam": { "title": "bemvindoaaosteam", "loginpage": "bemvindoaaosteam" }
+  
 }
